@@ -1,2 +1,7 @@
-# weekly-web dev-challenge_02
+# weekly web dev challenge02
 ### Watch live : https://weeklychallenge02.netlify.app/
+
+## Tech Stack
+- HTML
+- CSS
+- JavaScript
